@@ -1,0 +1,8 @@
+# SK Grabber custom proxy list
+# Add one proxy per line. Blank lines and comments are ignored.
+# Supported formats:
+#   http://203.0.113.10:8080
+#   https://203.0.113.11:8443
+#   socks5://203.0.113.12:1080
+#   socks5h://203.0.113.13:1080
+#   user:password@203.0.113.14:3128
