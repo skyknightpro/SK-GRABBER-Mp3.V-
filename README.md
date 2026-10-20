@@ -4,6 +4,8 @@ A universal audio grabber with a glassmorphism interface. Paste a direct file
 link, a normal web page, a streaming site, a DRM music service link, or a Tor
 `.onion` address - SK Grabber finds the audio, converts it to MP3 and tags it.
 
+<img width="662" height="660" alt="Screenshot 2026-10-21 005955" src="https://github.com/user-attachments/assets/7226461b-39e0-4b3c-adc1-c898a6c8176c" />
+
 ## Ready to use
 
 Run **`dist\SK Grabber.exe`**. No Python installation is needed.
